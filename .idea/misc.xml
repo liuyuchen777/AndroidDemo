@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/bg_btn4.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/bg_radio_orange.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/bg_username.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/bug_btn2.xml" value="0.264" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/bug_btn3.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/bug_btn4.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_button.xml" value="0.2" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_check_box.xml" value="0.264" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_edit_text.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_image_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_radio_button.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/HelloWorld2/app/src/main/res/layout/activity_text_view.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/AndroidDemo/app/src/main/res/layout/activity_linear_recycle_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/AndroidDemo/app/src/main/res/layout/activity_list_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/AndroidDemo/app/src/main/res/layout/activity_recycle_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/AndroidDemo/app/src/main/res/layout/layout_linear_recycler_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/AndroidDemo/app/src/main/res/layout/layout_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/drawable/list_item.xml" value="0.2703125" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_grid_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_image_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_layout_list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_linear_recycle_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_list_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/activity_recycle_view.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/layout_grid_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/liuyu.LAPTOP-Q60UOB2C/local_lab/HelloWorld2/app/src/main/res/layout/layout_list_item.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
