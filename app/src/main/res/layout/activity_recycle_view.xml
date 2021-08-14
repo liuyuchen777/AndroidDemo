@@ -2,13 +2,32 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="15dp">
+    android:padding="15dp"
+    android:orientation="vertical">
 
     <Button
         android:id="@+id/btn_linear"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="ListView"/>
+
+    <Button
+        android:id="@+id/btn_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HorizontalScroll"/>
+
+    <Button
+        android:id="@+id/btn_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GridView"/>
+
+    <Button
+        android:id="@+id/btn_waterfall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WaterFallView"/>
 
 
 

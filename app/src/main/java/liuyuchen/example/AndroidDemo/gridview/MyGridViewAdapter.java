@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2.gridview;
+package liuyuchen.example.AndroidDemo.gridview;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
-import liuyuchen.example.helloworld2.R;
+import liuyuchen.example.AndroidDemo.R;
 
 public class MyGridViewAdapter extends BaseAdapter {
 

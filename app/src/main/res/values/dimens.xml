@@ -5,4 +5,8 @@
         1dp
     </dimen>
 
+    <dimen name="dividerHeight2">
+        5dp
+    </dimen>
+
 </resources>

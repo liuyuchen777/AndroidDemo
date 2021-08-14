@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2.gridview;
+package liuyuchen.example.AndroidDemo.gridview;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,7 +8,7 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import liuyuchen.example.helloworld2.R;
+import liuyuchen.example.AndroidDemo.R;
 
 public class GridViewActivity extends AppCompatActivity {
 

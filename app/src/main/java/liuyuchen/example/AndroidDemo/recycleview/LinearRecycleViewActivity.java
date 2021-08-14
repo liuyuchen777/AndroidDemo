@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2.recycleview;
+package liuyuchen.example.AndroidDemo.recycleview;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,7 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import liuyuchen.example.helloworld2.R;
+import liuyuchen.example.AndroidDemo.R;
 
 public class LinearRecycleViewActivity extends AppCompatActivity {
 
@@ -23,6 +23,7 @@ public class LinearRecycleViewActivity extends AppCompatActivity {
 
         mRvMain = (RecyclerView) findViewById(R.id.rv_main);
         mRvMain.setLayoutManager(new LinearLayoutManager(LinearRecycleViewActivity.this));
+        // add divider
         mRvMain.addItemDecoration(new MyDecoration());
         // set adapter
         mRvMain.setAdapter(new LinearAdapter(LinearRecycleViewActivity.this, new LinearAdapter.OnItemClickListener() {

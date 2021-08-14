@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="liuyuchen.example.helloworld2">
+    package="liuyuchen.example.AndroidDemo">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -11,6 +11,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloWorld2">
+        <activity
+            android:name=".recycleview.WaterFallActivity"
+            android:exported="true" />
+        <activity
+            android:name=".recycleview.GridRecyclerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".recycleview.HorizontalRecyclerActivity"
+            android:exported="true" />
         <activity
             android:name=".recycleview.LinearRecycleViewActivity"
             android:exported="true" />

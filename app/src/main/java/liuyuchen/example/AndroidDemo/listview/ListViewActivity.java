@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2.listview;
+package liuyuchen.example.AndroidDemo.listview;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,7 +8,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import liuyuchen.example.helloworld2.R;
+import liuyuchen.example.AndroidDemo.R;
 
 
 public class ListViewActivity extends AppCompatActivity {

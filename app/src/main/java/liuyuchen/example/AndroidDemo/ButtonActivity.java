@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2;
+package liuyuchen.example.AndroidDemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 

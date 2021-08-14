@@ -1,16 +1,15 @@
-package liuyuchen.example.helloworld2.recycleview;
+package liuyuchen.example.AndroidDemo.recycleview;
 
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import liuyuchen.example.helloworld2.R;
+import liuyuchen.example.AndroidDemo.R;
 
 public class LinearAdapter extends RecyclerView.Adapter<LinearAdapter.LinearViewHolder> {
 

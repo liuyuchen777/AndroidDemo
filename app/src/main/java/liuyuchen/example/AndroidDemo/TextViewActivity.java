@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2;
+package liuyuchen.example.AndroidDemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,8 +6,6 @@ import android.graphics.Paint;
 import android.os.Bundle;
 import android.text.Html;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
 
 public class TextViewActivity extends AppCompatActivity {
 

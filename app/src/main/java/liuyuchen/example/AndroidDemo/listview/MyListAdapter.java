@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2.listview;
+package liuyuchen.example.AndroidDemo.listview;
 
 
 import android.content.Context;
@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
-import liuyuchen.example.helloworld2.R;
+import liuyuchen.example.AndroidDemo.R;
 
 public class MyListAdapter extends BaseAdapter {
 

@@ -1,4 +1,4 @@
-package liuyuchen.example.helloworld2;
+package liuyuchen.example.AndroidDemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,9 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import liuyuchen.example.helloworld2.gridview.GridViewActivity;
-import liuyuchen.example.helloworld2.listview.ListViewActivity;
-import liuyuchen.example.helloworld2.recycleview.RecycleViewActivity;
+import liuyuchen.example.AndroidDemo.gridview.GridViewActivity;
+import liuyuchen.example.AndroidDemo.listview.ListViewActivity;
+import liuyuchen.example.AndroidDemo.recycleview.RecycleViewActivity;
 
 public class MainActivity extends AppCompatActivity {
 
