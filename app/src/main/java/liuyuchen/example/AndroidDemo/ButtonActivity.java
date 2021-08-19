@@ -3,12 +3,12 @@ package liuyuchen.example.AndroidDemo;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
 public class ButtonActivity extends AppCompatActivity {
-
     private Button mBtn3;
 
     @Override

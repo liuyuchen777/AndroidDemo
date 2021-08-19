@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="liuyuchen.example.AndroidDemo">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -10,7 +11,21 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.HelloWorld2">
+        android:theme="@style/Theme.AndroidDemo"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+        <activity
+            android:name=".DialogActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ToastActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WebViewActivity"
+            android:exported="true" />
         <activity
             android:name=".recycleview.WaterFallActivity"
             android:exported="true" />
@@ -41,8 +56,9 @@
         <activity
             android:name=".EditTextActivity"
             android:exported="true" />
+
         <activity
-            android:name=".MainActivity"
+            android:name=".PropActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -50,6 +66,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
             android:name=".TextViewActivity"
             android:exported="true" />
